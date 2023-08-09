@@ -1,0 +1,7 @@
+set(path_planning_SETUP_PY_SETUP_MODULE "distutils.core")
+set(path_planning_SETUP_PY_VERSION "0.0.0")
+set(path_planning_SETUP_PY_SCRIPTS "")
+set(path_planning_SETUP_PY_PACKAGES "path_planning")
+set(path_planning_SETUP_PY_PACKAGE_DIRS "src/path_planning")
+set(path_planning_SETUP_PY_MODULES "")
+set(path_planning_SETUP_PY_MODULE_DIRS "")

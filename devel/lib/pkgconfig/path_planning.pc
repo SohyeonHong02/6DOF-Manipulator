@@ -1,0 +1,8 @@
+prefix=/home/sohyeon/catkin_ws/devel
+
+Name: path_planning
+Description: Description of path_planning
+Version: 0.0.0
+Cflags: -I/home/sohyeon/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs rospy std_msgs tf message_runtime
